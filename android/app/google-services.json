@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "408467174940",
+    "project_id": "hackthon-474f6",
+    "storage_bucket": "hackthon-474f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408467174940:android:e0d1fe7932e79944da11d9",
+        "android_client_info": {
+          "package_name": "com.example.hackthon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408467174940-srs6u73hpjqvr06v7gokcbm1np9frkjs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiL3OpADQuLXU1LndEfoI2-8Jk7yOzw9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408467174940-srs6u73hpjqvr06v7gokcbm1np9frkjs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "408467174940-ig44mjnau9l4h5d9nnqvdssv1cfdr4pm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.hackthon"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
